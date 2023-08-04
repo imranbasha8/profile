@@ -1,0 +1,127 @@
+.top {
+  text-align: center;
+  background-color: #C3F8FF;
+  /* overflow: hidden; */
+  padding-top: 15%;
+  position: relative;
+  line-height: 0;
+}
+
+.heading1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5rem;
+}
+
+h2 {
+  font-size: 40px;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+  font-size: 25px;
+}
+
+p {
+  color: #40514E;
+  line-height: normal;
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.cloud-1 {
+  position: absolute;
+  bottom: 500px;
+  right: 400px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 400px;
+}
+
+.middle {
+  text-align: center;
+  margin: 100px auto 50px auto;
+}
+
+.mid-1 {
+  text-align: center;
+}
+
+.ib {
+  width: 10%;
+}
+
+hr {
+  margin: 100px auto 100px auto;
+  border-top: dotted 5px;
+  width: 5%;
+}
+
+.mid-2 {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.what {
+  width: 20%;
+  float: left;
+  margin-left: 60px;
+}
+
+.mid-3 {
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.developer {
+  width: 20%;
+  float: right;
+  margin-right: 40px;
+}
+
+.mid-4 {
+  text-align: center;
+}
+
+.btn {
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  color: #000000;
+  font-family: Brush Script MT;
+  font-size: 22px;
+  font-weight: 100;
+  padding: 14px;
+  background-color: #7DC6BD;
+  border: solid #FFFFFF 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.bottom {
+  background-color: #C3F8FF;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  padding-top: 30px;
+  line-height: 2;
+}
+
+a {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 20px;
+}
+
+a:hover {
+  color: #171717;
+}
